@@ -1,0 +1,395 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "wetail-icons";
+    src: url("fonts/wetail-icons.eot");
+    src: url("fonts/wetail-icons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/wetail-icons.woff") format("woff"),
+    url("fonts/wetail-icons.ttf") format("truetype"),
+    url("fonts/wetail-icons.svg#wetail-icons") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+[data-icon]:before {
+    font-family: "wetail-icons" !important;
+    content: attr(data-icon);
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-wetail-"]:before,
+[class*=" icon-wetail-"]:before {
+    font-family: "wetail-icons" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wetail-arrow-down:before {
+    content: "\61";
+}
+
+.icon-wetail-arrow-left:before {
+    content: "\62";
+}
+
+.icon-wetail-arrow-right:before {
+    content: "\63";
+}
+
+.icon-wetail-arrow-up:before {
+    content: "\64";
+}
+
+.icon-wetail-bars:before {
+    content: "\65";
+}
+
+.icon-wetail-dashboard:before {
+    content: "\68";
+}
+
+.icon-wetail-download:before {
+    content: "\69";
+}
+
+.icon-wetail-home:before {
+    content: "\6a";
+}
+
+.icon-wetail-locked:before {
+    content: "\6b";
+}
+
+.icon-wetail-minus:before {
+    content: "\6c";
+}
+
+.icon-wetail-unlocked:before {
+    content: "\6e";
+}
+
+.icon-wetail-receipt-pounds:before {
+    content: "\70";
+}
+
+.icon-wetail-receipt-kr:before {
+    content: "\72";
+}
+
+.icon-wetail-receipt-euro:before {
+    content: "\73";
+}
+
+.icon-wetail-receipt-dollar:before {
+    content: "\74";
+}
+
+.icon-wetail-profile:before {
+    content: "\75";
+}
+
+.icon-wetail-plus:before {
+    content: "\76";
+}
+
+.icon-wetail-basket:before {
+    content: "\66";
+}
+
+.icon-wetail-shopping-bag:before {
+    content: "\6f";
+}
+
+.icon-wetail-cart:before {
+    content: "\67";
+}
+
+.icon-wetail-wetail:before {
+    content: "\78";
+}
+
+.icon-wetail-times:before {
+    content: "\71";
+}
+
+.icon-wetail-search:before {
+    content: "\77";
+}
+
+.icon-wetail-check:before {
+    content: "\79";
+}
+
+.icon-wetail-equalize:before {
+    content: "\7a";
+}
+
+.icon-wetail-box:before {
+    content: "\41";
+}
+
+.icon-wetail-recurring-box:before {
+    content: "\42";
+}
+
+.icon-wetail-card:before {
+    content: "\43";
+}
+
+.icon-wetail-solid-bag:before {
+    content: "\44";
+}
+
+.icon-wetail-hanger:before {
+    content: "\45";
+}
+
+.icon-wetail-bars-search:before {
+    content: "\47";
+}
+
+.icon-wetail-recurring:before {
+    content: "\6d";
+}
+
+.icon-wetail-dog:before {
+    content: "\46";
+}
+
+.icon-wetail-heart:before {
+    content: "\48";
+}
+
+.icon-wetail-heart-filled:before {
+    content: "\49";
+}
+
+.icon-wetail-cart-bag:before {
+    content: "\4a";
+}
+
+.icon-wetail-hemburger-search-superlight:before {
+    content: "\4b";
+}
+
+.icon-wetail-heart-superlight:before {
+    content: "\4c";
+}
+
+.icon-wetail-info:before {
+    content: "\4d";
+}
+
+.icon-wetail-plus-superlight:before {
+    content: "\4e";
+}
+
+.icon-wetail-support-superlight:before {
+    content: "\4f";
+}
+
+.icon-wetail-search-superlight:before {
+    content: "\50";
+}
+
+.icon-wetail-profile-superlight:before {
+    content: "\51";
+}
+
+.icon-wetail-truck-0:before {
+    content: "\52";
+}
+
+.icon-wetail-truck-1:before {
+    content: "\53";
+}
+
+.icon-wetail-truck-2:before {
+    content: "\54";
+}
+
+.icon-wetail-times-superlight:before {
+    content: "\55";
+}
+
+.icon-wetail-eye:before {
+    content: "\56";
+}
+
+.icon-wetail-big-grid:before {
+    content: "\57";
+}
+
+.icon-wetail-small-grid:before {
+    content: "\58";
+}
+
+.icon-wetail-loading:before {
+    content: "\59";
+}
+
+.icon-wetail-alarm:before {
+    content: "\5a";
+}
+
+.icon-wetail-box-check:before {
+    content: "\31";
+}
+
+.icon-wetail-boxes:before {
+    content: "\32";
+}
+
+.icon-wetail-credit-card-check:before {
+    content: "\33";
+}
+
+.icon-wetail-credit-card:before {
+    content: "\34";
+}
+
+.icon-wetail-clone-site:before {
+    content: "\35";
+}
+
+.icon-wetail-clock:before {
+    content: "\36";
+}
+
+.icon-wetail-cart-plus:before {
+    content: "\37";
+}
+
+.icon-wetail-cart-three-lines:before {
+    content: "\38";
+}
+
+.icon-wetail-cart-2:before {
+    content: "\39";
+}
+
+.icon-wetail-forklift:before {
+    content: "\21";
+}
+
+.icon-wetail-pallet:before {
+    content: "\22";
+}
+
+.icon-wetail-lifebuoy:before {
+    content: "\23";
+}
+
+.icon-wetail-timer:before {
+    content: "\24";
+}
+
+.icon-wetail-pulse-heart:before {
+    content: "\25";
+}
+
+.icon-wetail-site:before {
+    content: "\26";
+}
+
+.icon-wetail-printer:before {
+    content: "\27";
+}
+
+.icon-wetail-server-rack:before {
+    content: "\28";
+}
+
+.icon-wetail-shelf:before {
+    content: "\29";
+}
+
+.icon-wetail-truck-w-box:before {
+    content: "\2a";
+}
+
+.icon-wetail-wheeler:before {
+    content: "\2b";
+}
+
+.icon-wetail-bin:before {
+    content: "\30";
+}
+
+.icon-wetail-radio-checked:before {
+    content: "\2c";
+}
+
+.icon-wetail-radio-chosen:before {
+    content: "\2d";
+}
+
+.icon-wetail-radio-remove:before {
+    content: "\2e";
+}
+
+.icon-wetail-radio-unchecked:before {
+    content: "\2f";
+}
+
+.icon-wetail-olle-arrow-down-7px:before {
+    content: "\3a";
+}
+
+.icon-wetail-olle-arrow-left-7px:before {
+    content: "\3b";
+}
+
+.icon-wetail-olle-arrow-right-7px:before {
+    content: "\3c";
+}
+
+.icon-wetail-olle-arrow-up-7px:before {
+    content: "\3d";
+}
+
+.icon-wetail-olle-cart-7px:before {
+    content: "\3e";
+}
+
+.icon-wetail-olle-profile-7px:before {
+    content: "\3f";
+}
+
+.icon-wetail-olle-search-7px:before {
+    content: "\40";
+}
+
+.icon-wetail-olle-bars-7px:before {
+    content: "\5b";
+}
+
+.icon-wetail-check-ring:before {
+    content: "\5e";
+}
+
+.icon-wetail-foder:before {
+    content: "\5d";
+}
+
+.icon-wetail-shopping-bag-1:before {
+    content: "\5f";
+}
+
+.icon-wetail-shopping-bag-a:before {
+    content: "\60";
+}

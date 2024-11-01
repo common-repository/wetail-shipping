@@ -1,0 +1,43 @@
+#TB_ajaxContent {
+	padding-bottom: 0 !important;
+	max-width: calc(100% - 30px);
+
+	.selected-service-indicator {
+		margin-top: 3px;
+	}
+
+	.selected-service {
+		margin-left: 8px;
+		font-size: 1.5em;
+	}
+
+	.filter {
+		width: 100%;
+		border-radius: 9px;
+	}
+
+	.submit {
+		float: right;
+	}
+
+	.services-to-filter {
+		height: calc(100% - 141px);
+		overflow: scroll;
+		margin-top: 0;
+		margin-bottom: 0;
+		border: 1px solid black;
+
+		> li {
+			padding-left: 8px;
+
+			&:hover {
+				background: #c1c1c1;
+				cursor: pointer;
+			}
+
+			&.selected {
+				background: #7ad87a;
+			}
+		}
+	}
+}

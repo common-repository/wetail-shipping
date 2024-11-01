@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-09-05 14:42+0300\n"
+"PO-Revision-Date: 2024-09-05 14:45+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/classes/class-wetail-shipping-ajax.php:387
+msgid "Return label has been sent to customer"
+msgstr "Returetikett har skickats till kund"
+
+#: includes/classes/class-wetail-shipping-mailer.php:39
+msgid "Track your parcel"
+msgstr "Spåra ditt paket"
+
+#: includes/classes/class-wetail-shipping-mailer.php:56
+msgid "Return label for orders"
+msgstr "Returetikett för order"
+
+#: includes/classes/class-wetail-shipping-mailer.php:58
+msgid "Hello! Attached you will find the return label for orders"
+msgstr "Hej! Bifogat finner du returetiketten för order"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:82
+msgid "Print labels"
+msgstr "Skriva ut etiketter"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:127
+msgid "Update & print"
+msgstr "Uppdatera & Skriv ut"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:128
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:129
+#: templates/update-product-dimensions.php:20
+msgid "Weight"
+msgstr "Vikt"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:130
+msgid "Total order weight"
+msgstr "Total ordervikt"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:131
+msgid "Overwrite the total weight of the order, if necessary"
+msgstr "Skriv över orderns totala vikt om det behövs"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:132
+msgid "Quantity"
+msgstr "Antal"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:133
+msgid "Add row"
+msgstr "Lägg till rad"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:134
+msgid "Enter the ID of the product"
+msgstr "Ange ID för produkten"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:135
+msgid "Enter the name of the product"
+msgstr "Ange namnet på produkten"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:136
+msgid "Enter the quantity of the product"
+msgstr "Ange kvantiteten av produkten"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:137
+msgid "The ID of the product is empty. Please try again."
+msgstr "Produktens ID är tomt. Försök igen."
+
+#: includes/classes/class-wetail-shipping-order-admin.php:138
+msgid "The name of the product is empty. Please try again."
+msgstr "Namnet på produkten är tomt. Försök igen."
+
+#: includes/classes/class-wetail-shipping-order-admin.php:139
+msgid "The quantity of the product is empty. Please try again."
+msgstr "Kvantiteten av produkten är tom. Försök igen."
+
+#: includes/classes/class-wetail-shipping-order-admin.php:140
+msgid "The quantity of the product should be a number. Please try again."
+msgstr "Mängden av produkten ska vara ett nummer. Försök igen."
+
+#: includes/classes/class-wetail-shipping-order-admin.php:141
+msgid ""
+"Please select a return service provided by your parcel delivery company for "
+"the order"
+msgstr ""
+"Välj en returtjänst som tillhandahålls av ditt paketleveransföretag för "
+"beställningen"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:142
+msgid "Print"
+msgstr "Skriv ut"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:143
+msgid "Send to client"
+msgstr "Skicka till kund"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:144
+msgid "OK"
+msgstr "OK"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:145
+msgid "Cancel"
+msgstr "Avsluta"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:146
+msgid "Confirm"
+msgstr "Fortsätt"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:147
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:148
+msgid ""
+"Your order can not be processed. Please enter the weight and/or dimensions "
+"of your package."
+msgstr ""
+"Din beställning kan inte behandlas. Ange vikt och/eller mått på ditt paket."
+
+#: includes/classes/class-wetail-shipping-order-admin.php:149
+msgid "Missing account connection"
+msgstr "Saknar koppling till konto"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:150
+msgid "Missing order info"
+msgstr "Orderinformation saknas"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:151
+msgid "Order"
+msgstr "Order"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:152
+msgid "Select sender & pickup"
+msgstr "Välj avsändare och upphämtning"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:153
+msgid "Please"
+msgstr "Vänligen"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:154
+msgid "select a shipping sender"
+msgstr "välj en avsändare"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:155
+msgid "Sender"
+msgstr "Avsändare"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:156
+msgid "Choose sender"
+msgstr "Välj avsändare"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:157
+msgid "Carrier"
+msgstr "Transportör"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:158
+msgid "Use mapping"
+msgstr "Använda mappning"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:159
+msgid "and/or"
+msgstr "och/eller"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:160
+msgid "schedule pickup"
+msgstr "schemalägg upphämtning"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:161
+msgid "Schedule pickup"
+msgstr "Schemalägg upphämtning"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:162
+msgid "Choose date"
+msgstr "Välj datum"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:163
+msgid "Time is approximate, please contact carrier for information"
+msgstr "Tiden är ungefärlig, kontakta transportören för information"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:164
+msgid "Select return service"
+msgstr "Välj returtjänst"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:165
+msgid "Print shipping label"
+msgstr "Skriv ut fraktsedel"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:166
+#: includes/classes/class-wetail-shipping-order-admin.php:238
+msgid "Print label"
+msgstr "Skriv ut etikett"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:167
+#: includes/classes/class-wetail-shipping-order-admin.php:297
+msgid "View label"
+msgstr "Visa etikett"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:168
+#: includes/classes/class-wetail-shipping-order-admin.php:351
+msgid "Return"
+msgstr "Tillbaka"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:391
+msgid "Creation of shipping label failed"
+msgstr "Det gick inte att skapa fraktsedel"
+
+#: includes/classes/class-wetail-shipping-order-admin.php:393
+msgid "Creation of shipping label was successful"
+msgstr "Skapandet av fraktsedel lyckades"
+
+#: includes/classes/class-wetail-shipping-settings.php:118
+msgid "API Key"
+msgstr "API-Nyckel"
+
+#: includes/classes/class-wetail-shipping-settings.php:122
+#, php-format
+msgid ""
+"The API-key will be emailed to you when you purchase a license at wetail.io. "
+"If you haven't signed up yet, use this %slink%s."
+msgstr ""
+"API-nyckeln kommer att mejlas till dig när du köper ett konto på wetail.io. "
+"Om du inte har registrerat dig än, använd denna %slänk%s."
+
+#: includes/classes/class-wetail-shipping-settings.php:128
+msgid "Minimum weight per order"
+msgstr "Minimumvikt per order"
+
+#: includes/classes/class-wetail-shipping-settings.php:132
+msgid ""
+"Setting this value will never set the order weight below this threshold. "
+"Leave empty to allow any order weight including zero or none."
+msgstr ""
+"Att ställa in detta värde kommer aldrig att sätta ordervikten under detta "
+"tröskelvärde. Lämna det tomt för att tillåta vilken ordervikt som helst, "
+"inklusive noll."
+
+#: includes/classes/class-wetail-shipping-settings.php:136
+msgid "Support multiple senders"
+msgstr "Flera avsändare"
+
+#: includes/classes/class-wetail-shipping-settings.php:140
+#, php-format
+msgid ""
+"Allow multiple senders in Wetail shipping. Selecting this option will prompt "
+"you for the sender upon every shipment label creation. To create another "
+"sender, contact %ssupport@wetail.io%s."
+msgstr ""
+"Tillåt flera avsändare i Wetail-frakt. Genom att välja detta alternativ "
+"kommer du att få välja avsändare när du skapar en  fraktsedel. För att skapa "
+"en annan avsändare, kontakta %ssupport@wetail.io%s."
+
+#: includes/classes/class-wetail-shipping-settings.php:146
+msgid "Manual carrier pickups"
+msgstr "Manuell upphämtningsbokning"
+
+#: includes/classes/class-wetail-shipping-settings.php:149
+msgid ""
+"Allow scheduling pickups. Selecting this option will prompt you with an "
+"option to order pickup."
+msgstr ""
+"Tillåt bokning av upphämtningar. Genom att välja detta alternativ kommer du "
+"att få valet att beställa upphämtning."
+
+#: includes/classes/class-wetail-shipping-settings.php:152
+msgid "Manual shipping method selection"
+msgstr "Manuellt val av fraktmetod"
+
+#: includes/classes/class-wetail-shipping-settings.php:155
+msgid "Allow manual selection of shipping method."
+msgstr "Tillåt manuellt val av fraktsätt."
+
+#: includes/classes/class-wetail-shipping-settings.php:158
+msgid "Manual order validation"
+msgstr "Manuell ordervalidering"
+
+#: includes/classes/class-wetail-shipping-settings.php:161
+msgid ""
+"Selecting this option will prompt you with an additional order confirmation "
+"dialog. In this dialog you can change weight and dimensions of each product "
+"in the order."
+msgstr ""
+"Genom att välja detta alternativ kommer du att få en ytterligare "
+"orderbekräftelsedialog. I denna dialog kan du ändra vikt och dimensioner för "
+"varje produkt i ordern."
+
+#: includes/classes/class-wetail-shipping-settings.php:164
+msgid "Ignore product dimensions"
+msgstr "Ignorera poduktdimensioner"
+
+#: includes/classes/class-wetail-shipping-settings.php:167
+msgid ""
+"Selecting this option will ignore any product dimensions when creating a "
+"shipment label. Instead it will use the minimum dimensions given by carrier "
+"shipping service."
+msgstr ""
+"Genom att välja detta alternativ kommer alla poduktdimensioner att ignoreras "
+"vid skapandet av en fraktsedel. Istället kommer de minimum dimensionerna som "
+"ges av frakttjänsten att användas."
+
+#: includes/classes/class-wetail-shipping-settings.php:170
+msgid "Print PDFs automatically"
+msgstr "Skriva ut PDF-filer automatiskt"
+
+#: includes/classes/class-wetail-shipping-settings.php:173
+msgid "Do not print"
+msgstr "Skriv inte ut"
+
+#: templates/no-license.php:29
+msgid ""
+"You don’t seem to have a subscription. Please pick a plan and get started "
+"today"
+msgstr ""
+"Du verkar inte ha något konto. Vänligen välj en plan och kom igång på ett "
+"par minuter"
+
+#: templates/no-license.php:38
+msgid "Pay as you go"
+msgstr "Pay as you go"
+
+#: templates/no-license.php:42
+#, php-format
+msgid "Only %s/order print"
+msgstr "Endast %s/‪fraktetikett"
+
+#: templates/no-license.php:46
+msgid "No fixed costs, you only pay for usage."
+msgstr "Inga fasta kostnader, Betala endast för det du brukar."
+
+#: templates/no-license.php:50
+msgid "Pre-paid 500 orders"
+msgstr "Pre-paid 500 fraktetiketter"
+
+#: templates/no-license.php:54 templates/no-license.php:70
+#, php-format
+msgid "from %s/month"
+msgstr "från %s/mån"
+
+#: templates/no-license.php:58 templates/no-license.php:74
+#, php-format
+msgid "%s/order"
+msgstr "%s/beställning"
+
+#: templates/no-license.php:62
+msgid "For growing shops, pricing control."
+msgstr "För växande butiker, full priskontroll."
+
+#: templates/no-license.php:66
+msgid "Pre-paid 1000 orders"
+msgstr "Pre-paid 1000 fraktetiketter"
+
+#: templates/no-license.php:78
+msgid "For large shops, pricing control."
+msgstr "För stora butiker, full priskontroll."
+
+#: templates/no-license.php:82
+msgid "Enterprise"
+msgstr "Enterprise"
+
+#: templates/no-license.php:84
+msgid "Contact sales"
+msgstr "Kontakta sälj"
+
+#: templates/no-license.php:87
+msgid "Custom integrations and shipping rules."
+msgstr "Anpassade integrationer och fraktregler."
+
+#: templates/no-license.php:94
+msgid "Visit wetail.io"
+msgstr "Besök wetail.io"
+
+#: templates/update-product-dimensions.php:39
+#: templates/update-product-dimensions.php:45
+msgid "Length"
+msgstr "Längd"
+
+#: templates/update-product-dimensions.php:51
+#: templates/update-product-dimensions.php:57
+msgid "Width"
+msgstr "Bredd"
+
+#: templates/update-product-dimensions.php:63
+#: templates/update-product-dimensions.php:69
+msgid "Height"
+msgstr "Höjd"
+
+#: templates/update-product-dimensions.php:80
+msgid "Remove"
+msgstr "Ta bort"
+
+#: templates/update-product-dimensions.php:87
+msgid "Do not ship this product"
+msgstr "Skicka inte denna produkt"
+
+#~ msgid "Wetail Shipping"
+#~ msgstr "Wetail Frakt"
+
+#~ msgid "Print existing shipping label"
+#~ msgstr "Skriv ut befintlig fraktsedel"
+
+#~ msgid "Returetikett har skickats till kund"
+#~ msgstr "Returetikett har skickats till kund"

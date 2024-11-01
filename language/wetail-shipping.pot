@@ -1,0 +1,411 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wetail Shipping\n"
+"POT-Creation-Date: 2024-09-05 14:45+0300\n"
+"PO-Revision-Date: 2024-09-05 14:44+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wetail-shipping.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/classes/class-wetail-shipping-ajax.php:387
+msgid "Return label has been sent to customer"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-mailer.php:39
+msgid "Track your parcel"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-mailer.php:56
+msgid "Return label for orders"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-mailer.php:58
+msgid "Hello! Attached you will find the return label for orders"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:82
+msgid "Print labels"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:127
+msgid "Update & print"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:128
+msgid "Product"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:129
+#: templates/update-product-dimensions.php:20
+msgid "Weight"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:130
+msgid "Total order weight"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:131
+msgid "Overwrite the total weight of the order, if necessary"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:132
+msgid "Quantity"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:133
+msgid "Add row"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:134
+msgid "Enter the ID of the product"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:135
+msgid "Enter the name of the product"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:136
+msgid "Enter the quantity of the product"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:137
+msgid "The ID of the product is empty. Please try again."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:138
+msgid "The name of the product is empty. Please try again."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:139
+msgid "The quantity of the product is empty. Please try again."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:140
+msgid "The quantity of the product should be a number. Please try again."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:141
+msgid ""
+"Please select a return service provided by your parcel delivery company for "
+"the order"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:142
+msgid "Print"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:143
+msgid "Send to client"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:144
+msgid "OK"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:145
+msgid "Cancel"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:146
+msgid "Confirm"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:147
+msgid "Continue"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:148
+msgid ""
+"Your order can not be processed. Please enter the weight and/or dimensions "
+"of your package."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:149
+msgid "Missing account connection"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:150
+msgid "Missing order info"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:151
+msgid "Order"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:152
+msgid "Select sender & pickup"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:153
+msgid "Please"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:154
+msgid "select a shipping sender"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:155
+msgid "Sender"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:156
+msgid "Choose sender"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:157
+msgid "Carrier"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:158
+msgid "Use mapping"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:159
+msgid "and/or"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:160
+msgid "schedule pickup"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:161
+msgid "Schedule pickup"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:162
+msgid "Choose date"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:163
+msgid "Time is approximate, please contact carrier for information"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:164
+msgid "Select return service"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:165
+msgid "Print shipping label"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:166
+#: includes/classes/class-wetail-shipping-order-admin.php:238
+msgid "Print label"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:167
+#: includes/classes/class-wetail-shipping-order-admin.php:297
+msgid "View label"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:168
+#: includes/classes/class-wetail-shipping-order-admin.php:351
+msgid "Return"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:391
+msgid "Creation of shipping label failed"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-order-admin.php:393
+msgid "Creation of shipping label was successful"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:118
+msgid "API Key"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:122
+#, php-format
+msgid ""
+"The API-key will be emailed to you when you purchase a license at wetail.io. "
+"If you haven't signed up yet, use this %slink%s."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:128
+msgid "Minimum weight per order"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:132
+msgid ""
+"Setting this value will never set the order weight below this threshold. "
+"Leave empty to allow any order weight including zero or none."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:136
+msgid "Support multiple senders"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:140
+#, php-format
+msgid ""
+"Allow multiple senders in Wetail shipping. Selecting this option will prompt "
+"you for the sender upon every shipment label creation. To create another "
+"sender, contact %ssupport@wetail.io%s."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:146
+msgid "Manual carrier pickups"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:149
+msgid ""
+"Allow scheduling pickups. Selecting this option will prompt you with an "
+"option to order pickup."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:152
+msgid "Manual shipping method selection"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:155
+msgid "Allow manual selection of shipping method."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:158
+msgid "Manual order validation"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:161
+msgid ""
+"Selecting this option will prompt you with an additional order confirmation "
+"dialog. In this dialog you can change weight and dimensions of each product "
+"in the order."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:164
+msgid "Ignore product dimensions"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:167
+msgid ""
+"Selecting this option will ignore any product dimensions when creating a "
+"shipment label. Instead it will use the minimum dimensions given by carrier "
+"shipping service."
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:170
+msgid "Print PDFs automatically"
+msgstr ""
+
+#: includes/classes/class-wetail-shipping-settings.php:173
+msgid "Do not print"
+msgstr ""
+
+#: templates/no-license.php:29
+msgid ""
+"You don’t seem to have a subscription. Please pick a plan and get started "
+"today"
+msgstr ""
+
+#: templates/no-license.php:38
+msgid "Pay as you go"
+msgstr ""
+
+#. translators: placeholder for the price per order print
+#: templates/no-license.php:42
+#, php-format
+msgid "Only %s/order print"
+msgstr ""
+
+#: templates/no-license.php:46
+msgid "No fixed costs, you only pay for usage."
+msgstr ""
+
+#: templates/no-license.php:50
+msgid "Pre-paid 500 orders"
+msgstr ""
+
+#. translators: placeholder for the price per month
+#: templates/no-license.php:54 templates/no-license.php:70
+#, php-format
+msgid "from %s/month"
+msgstr ""
+
+#. translators: placeholder for the price per order
+#: templates/no-license.php:58 templates/no-license.php:74
+#, php-format
+msgid "%s/order"
+msgstr ""
+
+#: templates/no-license.php:62
+msgid "For growing shops, pricing control."
+msgstr ""
+
+#: templates/no-license.php:66
+msgid "Pre-paid 1000 orders"
+msgstr ""
+
+#: templates/no-license.php:78
+msgid "For large shops, pricing control."
+msgstr ""
+
+#: templates/no-license.php:82
+msgid "Enterprise"
+msgstr ""
+
+#: templates/no-license.php:84
+msgid "Contact sales"
+msgstr ""
+
+#: templates/no-license.php:87
+msgid "Custom integrations and shipping rules."
+msgstr ""
+
+#: templates/no-license.php:94
+msgid "Visit wetail.io"
+msgstr ""
+
+#: templates/update-product-dimensions.php:39
+#: templates/update-product-dimensions.php:45
+msgid "Length"
+msgstr ""
+
+#: templates/update-product-dimensions.php:51
+#: templates/update-product-dimensions.php:57
+msgid "Width"
+msgstr ""
+
+#: templates/update-product-dimensions.php:63
+#: templates/update-product-dimensions.php:69
+msgid "Height"
+msgstr ""
+
+#: templates/update-product-dimensions.php:80
+msgid "Remove"
+msgstr ""
+
+#: templates/update-product-dimensions.php:87
+msgid "Do not ship this product"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Wetail Shipping"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wetail.io/integrationer/wetail-shipping/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wetail AB"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wetail.io/"
+msgstr ""

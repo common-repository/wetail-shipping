@@ -1,0 +1,44 @@
+@import "return-service";
+@import "form-table";
+@import "TB_ajaxContent";
+@import "wetail-shipping-engine-button";
+@import "wetail-shipping-engine-icon";
+@import "update-product-dimensions-and-sender-and-pickup-form";
+@import "wetail-shipping-promo";
+@import "tooltips";
+
+.column-wetail-shipping-engine_order {
+	width: 110px;
+}
+
+.notice-error {
+	border-left-color: red !important;
+}
+
+.wetail-shipping-engine-element-hide {
+	display: none !important;
+}
+
+.invisible {
+	visibility: hidden;
+}
+
+
+#wetail_shipping_template_weight {
+	&[type="number"] {
+		-moz-appearance: textfield;
+	}
+
+	&::-webkit-outer-spin-button,
+	&::-webkit-inner-spin-button {
+		-webkit-appearance: none;
+	}
+
+	+ .unit {
+		position: absolute;
+		left: 118px;
+		top: 22px;
+		font-size: 13px;
+		color: rgba(#000000, 0.5);
+	}
+}

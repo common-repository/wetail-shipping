@@ -1,0 +1,51 @@
+.wetail-shipping-tooltip {
+	&.ui-tooltip,
+	.tooltip-arrow:after {
+		background: black;
+	}
+
+	&.ui-tooltip {
+		padding: 2px 10px;
+		color: white;
+		border-radius: 5px;
+		font-size: 9px;
+		border: none;
+		min-width: 56px;
+		text-align: center;
+		z-index: 999999;
+	}
+
+	.tooltip-arrow {
+		width: 70px;
+		height: 16px;
+		overflow: hidden;
+		position: absolute;
+		left: 50%;
+		margin-left: -35px;
+		bottom: -16px;
+
+		&.top {
+			top: -16px;
+			bottom: auto;
+
+			&:after {
+				bottom: -20px;
+				top: auto;
+			}
+		}
+
+		&.left {
+			left: 20%;
+		}
+
+		&:after {
+			content: "";
+			position: absolute;
+			left: 50%;
+			top: -5px;
+			width: 10px;
+			height: 10px;
+			transform: translateX(-50%) rotate(45deg);
+		}
+	}
+}

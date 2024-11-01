@@ -1,0 +1,29 @@
+.form-table {
+	.wp-list-table {
+		th,
+		td {
+			padding: 8px 10px;
+		}
+
+		th [type=text],
+		th select,
+		td [type=text],
+		td select {
+			width: 100%;
+		}
+
+		.column-sender-quick-value {
+			[type=text] {
+				width: calc(100% - 30px);
+			}
+
+			.dashicons-dismiss {
+				margin-top: 4px;
+			}
+		}
+
+		.column-default {
+			width: 40px;
+		}
+	}
+}
